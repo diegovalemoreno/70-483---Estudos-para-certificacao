@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskReturnAValue\bin\Debug\UsingTaskReturnAValue.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskReturnAValue\bin\Debug\UsingTaskReturnAValue.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskReturnAValue\bin\Debug\UsingTaskReturnAValue.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskReturnAValue\obj\Debug\UsingTaskReturnAValue.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskReturnAValue\obj\Debug\UsingTaskReturnAValue.pdb

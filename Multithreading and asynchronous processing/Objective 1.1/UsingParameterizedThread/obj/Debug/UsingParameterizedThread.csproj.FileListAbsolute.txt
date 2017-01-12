@@ -1,0 +1,11 @@
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\bin\Debug\UsingParameterizedThread.exe.config
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\bin\Debug\UsingParameterizedThread.exe
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\bin\Debug\UsingParameterizedThread.pdb
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\obj\Debug\UsingParameterizedThread.exe
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\obj\Debug\UsingParameterizedThread.pdb
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\bin\Debug\UsingParameterizedThread.exe.config
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\bin\Debug\UsingParameterizedThread.exe
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\bin\Debug\UsingParameterizedThread.pdb
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\obj\Debug\UsingParameterizedThread.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\obj\Debug\UsingParameterizedThread.exe
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingParameterizedThread\obj\Debug\UsingParameterizedThread.pdb

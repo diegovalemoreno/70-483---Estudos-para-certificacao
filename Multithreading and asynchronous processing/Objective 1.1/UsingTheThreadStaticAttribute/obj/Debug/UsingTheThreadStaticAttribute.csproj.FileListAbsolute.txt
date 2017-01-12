@@ -1,0 +1,5 @@
+C:\Users\diego.moreno\Desktop\UsingTheThreadStaticAttribute\bin\Debug\UsingTheThreadStaticAttribute.exe.config
+C:\Users\diego.moreno\Desktop\UsingTheThreadStaticAttribute\bin\Debug\UsingTheThreadStaticAttribute.exe
+C:\Users\diego.moreno\Desktop\UsingTheThreadStaticAttribute\bin\Debug\UsingTheThreadStaticAttribute.pdb
+C:\Users\diego.moreno\Desktop\UsingTheThreadStaticAttribute\obj\Debug\UsingTheThreadStaticAttribute.exe
+C:\Users\diego.moreno\Desktop\UsingTheThreadStaticAttribute\obj\Debug\UsingTheThreadStaticAttribute.pdb

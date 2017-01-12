@@ -1,0 +1,121 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingThreadWithThreadClass", "Objetive.1_1\UsingThreadWithThreadClass.csproj", "{B239904C-3EFD-4D5E-842E-BE34A176E017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingBackGroundThread", "UsingBackGroundThread\UsingBackGroundThread.csproj", "{92ADD195-7997-4177-B4DB-654B92AB8400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingParameterizedThread", "UsingParameterizedThread\UsingParameterizedThread.csproj", "{5836A5FD-3FC4-4C59-8B89-B766EAE55C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoppingAThread", "StoppingAThread\StoppingAThread.csproj", "{EF1638E5-7D2B-4C2E-A018-083234164BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuingThreadPool", "QueuingThreadPool\QueuingThreadPool.csproj", "{132EF4FA-4293-40DF-9132-1054A5048E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingAContinuation", "AddingAContinuation\AddingAContinuation.csproj", "{A1B7A2DC-E541-404A-9D43-FD1A869FF86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartANewTask", "StartANewTask\StartANewTask.csproj", "{20C938E2-3B04-4B61-A908-657F431C5299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTaskWailAll", "UsingTaskWailAll\UsingTaskWailAll.csproj", "{5B01D2C0-9DB8-47F7-BAB3-58A13A029E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTaskWaitAny", "UsingTaskWaitAny\UsingTaskWaitAny.csproj", "{DB255AD1-0C93-41D5-AB73-09ADBD0EBA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTaskReturnAValue", "UsingTaskReturnAValue\UsingTaskReturnAValue.csproj", "{B714B1E2-7904-4D4A-A0D2-9D90F8880D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTheThreadStaticAttribute", "UsingTheThreadStaticAttribute\UsingTheThreadStaticAttribute.csproj", "{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B239904C-3EFD-4D5E-842E-BE34A176E017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B239904C-3EFD-4D5E-842E-BE34A176E017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B239904C-3EFD-4D5E-842E-BE34A176E017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B239904C-3EFD-4D5E-842E-BE34A176E017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92ADD195-7997-4177-B4DB-654B92AB8400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92ADD195-7997-4177-B4DB-654B92AB8400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92ADD195-7997-4177-B4DB-654B92AB8400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92ADD195-7997-4177-B4DB-654B92AB8400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5836A5FD-3FC4-4C59-8B89-B766EAE55C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5836A5FD-3FC4-4C59-8B89-B766EAE55C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5836A5FD-3FC4-4C59-8B89-B766EAE55C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5836A5FD-3FC4-4C59-8B89-B766EAE55C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1638E5-7D2B-4C2E-A018-083234164BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1638E5-7D2B-4C2E-A018-083234164BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1638E5-7D2B-4C2E-A018-083234164BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1638E5-7D2B-4C2E-A018-083234164BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132EF4FA-4293-40DF-9132-1054A5048E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132EF4FA-4293-40DF-9132-1054A5048E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132EF4FA-4293-40DF-9132-1054A5048E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132EF4FA-4293-40DF-9132-1054A5048E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B7A2DC-E541-404A-9D43-FD1A869FF86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B7A2DC-E541-404A-9D43-FD1A869FF86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B7A2DC-E541-404A-9D43-FD1A869FF86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B7A2DC-E541-404A-9D43-FD1A869FF86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C938E2-3B04-4B61-A908-657F431C5299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C938E2-3B04-4B61-A908-657F431C5299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C938E2-3B04-4B61-A908-657F431C5299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C938E2-3B04-4B61-A908-657F431C5299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B01D2C0-9DB8-47F7-BAB3-58A13A029E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B01D2C0-9DB8-47F7-BAB3-58A13A029E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B01D2C0-9DB8-47F7-BAB3-58A13A029E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B01D2C0-9DB8-47F7-BAB3-58A13A029E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB255AD1-0C93-41D5-AB73-09ADBD0EBA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB255AD1-0C93-41D5-AB73-09ADBD0EBA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB255AD1-0C93-41D5-AB73-09ADBD0EBA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB255AD1-0C93-41D5-AB73-09ADBD0EBA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B714B1E2-7904-4D4A-A0D2-9D90F8880D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B714B1E2-7904-4D4A-A0D2-9D90F8880D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B714B1E2-7904-4D4A-A0D2-9D90F8880D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B714B1E2-7904-4D4A-A0D2-9D90F8880D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 12
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://diegomoreno.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UsingBackGroundThread\\UsingBackGroundThread.csproj
+		SccProjectName1 = UsingBackGroundThread
+		SccLocalPath1 = UsingBackGroundThread
+		SccProjectUniqueName2 = Objetive.1_1\\UsingThreadWithThreadClass.csproj
+		SccProjectName2 = Objetive.1_1
+		SccLocalPath2 = Objetive.1_1
+		SccProjectUniqueName3 = UsingParameterizedThread\\UsingParameterizedThread.csproj
+		SccProjectName3 = UsingParameterizedThread
+		SccLocalPath3 = UsingParameterizedThread
+		SccProjectUniqueName4 = StoppingAThread\\StoppingAThread.csproj
+		SccProjectName4 = StoppingAThread
+		SccLocalPath4 = StoppingAThread
+		SccProjectUniqueName5 = QueuingThreadPool\\QueuingThreadPool.csproj
+		SccProjectName5 = QueuingThreadPool
+		SccLocalPath5 = QueuingThreadPool
+		SccProjectUniqueName6 = AddingAContinuation\\AddingAContinuation.csproj
+		SccProjectName6 = AddingAContinuation
+		SccLocalPath6 = AddingAContinuation
+		SccProjectUniqueName7 = StartANewTask\\StartANewTask.csproj
+		SccProjectName7 = StartANewTask
+		SccLocalPath7 = StartANewTask
+		SccProjectUniqueName8 = UsingTaskWailAll\\UsingTaskWailAll.csproj
+		SccProjectName8 = UsingTaskWailAll
+		SccLocalPath8 = UsingTaskWailAll
+		SccProjectUniqueName9 = UsingTaskWaitAny\\UsingTaskWaitAny.csproj
+		SccProjectName9 = UsingTaskWaitAny
+		SccLocalPath9 = UsingTaskWaitAny
+		SccProjectUniqueName10 = UsingTaskReturnAValue\\UsingTaskReturnAValue.csproj
+		SccProjectName10 = UsingTaskReturnAValue
+		SccLocalPath10 = UsingTaskReturnAValue
+		SccProjectUniqueName11 = UsingTheThreadStaticAttribute\\UsingTheThreadStaticAttribute.csproj
+		SccProjectName11 = UsingTheThreadStaticAttribute
+		SccLocalPath11 = UsingTheThreadStaticAttribute
+	EndGlobalSection
+EndGlobal

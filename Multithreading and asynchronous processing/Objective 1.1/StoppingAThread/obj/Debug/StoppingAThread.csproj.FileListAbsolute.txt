@@ -1,0 +1,6 @@
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\StoppingAThread\bin\Debug\StoppingAThread.exe.config
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\StoppingAThread\bin\Debug\StoppingAThread.exe
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\StoppingAThread\bin\Debug\StoppingAThread.pdb
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\StoppingAThread\obj\Debug\StoppingAThread.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\StoppingAThread\obj\Debug\StoppingAThread.exe
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\StoppingAThread\obj\Debug\StoppingAThread.pdb

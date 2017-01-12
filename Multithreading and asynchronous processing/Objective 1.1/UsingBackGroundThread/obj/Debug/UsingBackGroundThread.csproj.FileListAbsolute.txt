@@ -1,0 +1,11 @@
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\bin\Debug\UsingBackGroundThread.exe.config
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\bin\Debug\UsingBackGroundThread.exe
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\bin\Debug\UsingBackGroundThread.pdb
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\obj\Debug\UsingBackGroundThread.exe
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\obj\Debug\UsingBackGroundThread.pdb
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\bin\Debug\UsingBackGroundThread.exe.config
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\bin\Debug\UsingBackGroundThread.exe
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\bin\Debug\UsingBackGroundThread.pdb
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\obj\Debug\UsingBackGroundThread.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\obj\Debug\UsingBackGroundThread.exe
+C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\UsingBackGroundThread\obj\Debug\UsingBackGroundThread.pdb

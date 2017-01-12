@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskWaitAny\bin\Debug\UsingTaskWaitAny.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskWaitAny\bin\Debug\UsingTaskWaitAny.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskWaitAny\bin\Debug\UsingTaskWaitAny.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskWaitAny\obj\Debug\UsingTaskWaitAny.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\StartANewTask\UsingTaskWaitAny\obj\Debug\UsingTaskWaitAny.pdb

@@ -1,0 +1,12 @@
+C:\Users\diego.moreno\Desktop\QueuingThreadPool\bin\Debug\QueuingThreadPool.exe.config
+C:\Users\diego.moreno\Desktop\QueuingThreadPool\obj\Debug\QueuingThreadPool.csprojResolveAssemblyReference.cache
+C:\Users\diego.moreno\Desktop\QueuingThreadPool\bin\Debug\QueuingThreadPool.exe
+C:\Users\diego.moreno\Desktop\QueuingThreadPool\bin\Debug\QueuingThreadPool.pdb
+C:\Users\diego.moreno\Desktop\QueuingThreadPool\obj\Debug\QueuingThreadPool.exe
+C:\Users\diego.moreno\Desktop\QueuingThreadPool\obj\Debug\QueuingThreadPool.pdb
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\QueuingThreadPool\bin\Debug\QueuingThreadPool.exe.config
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\QueuingThreadPool\obj\Debug\QueuingThreadPool.exe
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\QueuingThreadPool\obj\Debug\QueuingThreadPool.pdb
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\QueuingThreadPool\bin\Debug\QueuingThreadPool.exe
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\QueuingThreadPool\bin\Debug\QueuingThreadPool.pdb
+C:\WorkSpace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\QueuingThreadPool\obj\Debug\QueuingThreadPool.csprojResolveAssemblyReference.cache

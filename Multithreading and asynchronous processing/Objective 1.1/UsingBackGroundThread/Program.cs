@@ -23,7 +23,7 @@ namespace UsingBackGroundThread
             Thread t = new Thread(new ThreadStart(ThreadMethod));
             t.IsBackground = true;
             t.Start();
-            t.Join();
+            //t.Join();
             //Console.ReadKey();
         }
     }

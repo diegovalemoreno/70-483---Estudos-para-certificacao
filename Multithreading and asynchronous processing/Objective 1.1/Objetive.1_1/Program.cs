@@ -26,7 +26,7 @@ namespace UsingThreadWithThreadClass
                 Console.WriteLine("Main Thread: Do Something");
                 Thread.Sleep(0);
             }
-
+            t.IsBackground = true;
             t.Join();
             Console.WriteLine("After");
            

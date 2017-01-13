@@ -1,6 +1,5 @@
-C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\bin\Debug\Objetive.1_1.exe.config
-C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\obj\Debug\Objetive.1_1.exe
-C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\obj\Debug\Objetive.1_1.pdb
-C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\bin\Debug\Objetive.1_1.exe
-C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\bin\Debug\Objetive.1_1.pdb
-C:\Desenvolvimento\Workspace\Estudos\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\obj\Debug\UsingThreadWithThreadClass.csprojResolveAssemblyReference.cache
+C:\WorkSpace\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\bin\Debug\Objetive.1_1.exe.config
+C:\WorkSpace\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\bin\Debug\Objetive.1_1.exe
+C:\WorkSpace\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\bin\Debug\Objetive.1_1.pdb
+C:\WorkSpace\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\obj\Debug\Objetive.1_1.exe
+C:\WorkSpace\Estudos C#\70-483 - Estudos para certificacao\Multithreading and asynchronous processing\Objective 1.1\Objetive.1_1\obj\Debug\Objetive.1_1.pdb

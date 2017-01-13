@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingThreadWithThreadClass", "Objetive.1_1\UsingThreadWithThreadClass.csproj", "{B239904C-3EFD-4D5E-842E-BE34A176E017}"
 EndProject
@@ -24,6 +24,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTaskReturnAValue", "UsingTaskReturnAValue\UsingTaskReturnAValue.csproj", "{B714B1E2-7904-4D4A-A0D2-9D90F8880D95}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTheThreadStaticAttribute", "UsingTheThreadStaticAttribute\UsingTheThreadStaticAttribute.csproj", "{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OutrosExemplos", "OutrosExemplos", "{F1413739-4EE6-4091-BBD9-FC3A1706730A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1 - UtilizandoThreadClass", "1.1 - UtilizandoThreadClass\1.1 - UtilizandoThreadClass.csproj", "{03E4EC75-670B-4E29-B70D-6442A5896F90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,47 +79,15 @@ Global
 		{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E5EE4AB-85BB-453A-9FE2-4100BE04C716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E4EC75-670B-4E29-B70D-6442A5896F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E4EC75-670B-4E29-B70D-6442A5896F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E4EC75-670B-4E29-B70D-6442A5896F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E4EC75-670B-4E29-B70D-6442A5896F90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 12
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://diegomoreno.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = UsingBackGroundThread\\UsingBackGroundThread.csproj
-		SccProjectName1 = UsingBackGroundThread
-		SccLocalPath1 = UsingBackGroundThread
-		SccProjectUniqueName2 = Objetive.1_1\\UsingThreadWithThreadClass.csproj
-		SccProjectName2 = Objetive.1_1
-		SccLocalPath2 = Objetive.1_1
-		SccProjectUniqueName3 = UsingParameterizedThread\\UsingParameterizedThread.csproj
-		SccProjectName3 = UsingParameterizedThread
-		SccLocalPath3 = UsingParameterizedThread
-		SccProjectUniqueName4 = StoppingAThread\\StoppingAThread.csproj
-		SccProjectName4 = StoppingAThread
-		SccLocalPath4 = StoppingAThread
-		SccProjectUniqueName5 = QueuingThreadPool\\QueuingThreadPool.csproj
-		SccProjectName5 = QueuingThreadPool
-		SccLocalPath5 = QueuingThreadPool
-		SccProjectUniqueName6 = AddingAContinuation\\AddingAContinuation.csproj
-		SccProjectName6 = AddingAContinuation
-		SccLocalPath6 = AddingAContinuation
-		SccProjectUniqueName7 = StartANewTask\\StartANewTask.csproj
-		SccProjectName7 = StartANewTask
-		SccLocalPath7 = StartANewTask
-		SccProjectUniqueName8 = UsingTaskWailAll\\UsingTaskWailAll.csproj
-		SccProjectName8 = UsingTaskWailAll
-		SccLocalPath8 = UsingTaskWailAll
-		SccProjectUniqueName9 = UsingTaskWaitAny\\UsingTaskWaitAny.csproj
-		SccProjectName9 = UsingTaskWaitAny
-		SccLocalPath9 = UsingTaskWaitAny
-		SccProjectUniqueName10 = UsingTaskReturnAValue\\UsingTaskReturnAValue.csproj
-		SccProjectName10 = UsingTaskReturnAValue
-		SccLocalPath10 = UsingTaskReturnAValue
-		SccProjectUniqueName11 = UsingTheThreadStaticAttribute\\UsingTheThreadStaticAttribute.csproj
-		SccProjectName11 = UsingTheThreadStaticAttribute
-		SccLocalPath11 = UsingTheThreadStaticAttribute
+	GlobalSection(NestedProjects) = preSolution
+		{03E4EC75-670B-4E29-B70D-6442A5896F90} = {F1413739-4EE6-4091-BBD9-FC3A1706730A}
 	EndGlobalSection
 EndGlobal
